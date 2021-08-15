@@ -1,0 +1,5 @@
+The project is about video hosting websites' analytics. The class VideoAnalytics contains:
+
+title: String - this is the title of the video
+views: int[] - this is the number of views each day. first day views in views[0], second day views in views[1], ...
+ 
